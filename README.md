@@ -13,6 +13,6 @@
 | [my_str_is_num](/lib/my_str_is_num.c)         | nothing                                |
 | [my_str_is_upper](/lib/my_str_is_upper.c)     | nothing                                |
 | [my_strdup](/lib/my_strdup.c)                 | malloc / [my_strlen](/lib/my_strlen.c) |
-|                                               |                                        |
+| [array_len](/lib/array_len.c)                 | nothing                                |
 |                                               |                                        |
 |                                               |                                        |
