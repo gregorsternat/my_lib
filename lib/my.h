@@ -10,6 +10,7 @@
 
     #include <stddef.h>
     #include <stdbool.h>
+    #include "linked_list.h"
 
 size_t my_strlen(const char *str);
 char *file_to_str(const char *path);
@@ -21,5 +22,6 @@ bool my_str_is_upper(const char *str);
 bool my_str_is_num(const char *str);
 char *my_strdup(const char *src);
 size_t array_len(void **arr);
+void push_to_list(linked_list_t **begin, void *data);
 
 #endif
