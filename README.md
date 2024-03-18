@@ -15,6 +15,6 @@
 | [my_strdup](/lib/my_strdup.c)                 | malloc / [my_strlen](/lib/my_strlen.c) |
 | [array_len](/lib/array_len.c)                 | nothing                              |
 | [push_to_list](/lib/push_to_list.c)           | malloc                               |
-|                                               |                                      |
+| [add_to_list](lib/add_to_list.c)              | malloc                               |
 |                                               |                                      |
 |                                               |                                      |

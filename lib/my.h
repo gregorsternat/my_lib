@@ -23,5 +23,6 @@ bool my_str_is_num(const char *str);
 char *my_strdup(const char *src);
 size_t array_len(void **arr);
 void push_to_list(linked_list_t **begin, void *data);
+void add_to_list(linked_list_t **begin, void *data);
 
 #endif
