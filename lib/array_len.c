@@ -7,7 +7,7 @@
 
 #include <stddef.h>
 
-size_t array_len(void **arr)
+size_t array_len(const void *const *arr)
 {
     size_t arr_len = 0;
 
