@@ -2,7 +2,7 @@
 ** EPITECH PROJECT, 2024
 ** my_lib
 ** File description:
-** add_to_list.c
+** Adds a new node to the beginning of a linked list
 */
 
 #include <stdlib.h>

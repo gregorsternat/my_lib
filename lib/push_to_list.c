@@ -2,7 +2,7 @@
 ** EPITECH PROJECT, 2024
 ** my_lib
 ** File description:
-** push_to_list.c
+** pAdds a node to the end of a linked list
 */
 
 #include <stdlib.h>

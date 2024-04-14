@@ -2,7 +2,7 @@
 ** EPITECH PROJECT, 2024
 ** my_lib
 ** File description:
-** my_put_error.c
+** Writes a message to the error output
 */
 
 #include <unistd.h>

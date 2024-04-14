@@ -2,7 +2,7 @@
 ** EPITECH PROJECT, 2024
 ** my_lib
 ** File description:
-** my_strlen.c
+** Returns the length of a string
 */
 
 #include <stddef.h>

@@ -2,7 +2,7 @@
 ** EPITECH PROJECT, 2024
 ** my_lib
 ** File description:
-** file_to_str.c
+** puts the contents of a file in a char *.
 */
 
 #include <fcntl.h>

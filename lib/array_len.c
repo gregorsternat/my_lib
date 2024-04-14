@@ -2,7 +2,7 @@
 ** EPITECH PROJECT, 2024
 ** my_lib
 ** File description:
-** array_len
+** Returns the number of cells in an array
 */
 
 #include <stddef.h>

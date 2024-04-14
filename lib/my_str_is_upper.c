@@ -2,7 +2,7 @@
 ** EPITECH PROJECT, 2024
 ** my_lib
 ** File description:
-** my_str_is_upper.c
+** Checks whether a string contains only capital letters
 */
 
 #include <stdbool.h>

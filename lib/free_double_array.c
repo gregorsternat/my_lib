@@ -2,7 +2,7 @@
 ** EPITECH PROJECT, 2024
 ** my_lib
 ** File description:
-** free_double_array.c
+** free two-dimensional tables
 */
 
 #include <stddef.h>

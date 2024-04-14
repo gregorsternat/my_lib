@@ -2,7 +2,7 @@
 ** EPITECH PROJECT, 2024
 ** my_lib
 ** File description:
-** my_str_is_num.c
+** Checks whether a string contains only numbers
 */
 
 #include <stdbool.h>

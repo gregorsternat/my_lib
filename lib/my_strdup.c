@@ -2,7 +2,7 @@
 ** EPITECH PROJECT, 2024
 ** my_lib
 ** File description:
-** my_strdup.c
+** Copies a string by allocating memory
 */
 
 #include <stddef.h>
