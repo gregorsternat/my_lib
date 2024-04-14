@@ -8,7 +8,7 @@
 #ifndef MACRO_H
     #define MACRO_H
 
-#define EXIT_SUCCESS 0
-#define EXIT_ERROR 84
+    #define EXIT_SUCCESS 0
+    #define EXIT_ERROR 84
 
 #endif
