@@ -20,7 +20,7 @@ char *file_to_str(const char *path)
         return NULL;
     if (stat(path, &file_stat) == -1)
         return NULL;
-    buff = malloc(sizeof(char) * (file_stat.st_size));
+    buff = malloc(sizeof(char) * (file_stat.st_size + 1));
     if (buff == NULL)
         return NULL;
     if (read(fd, buff, file_stat.st_size) == -1)
