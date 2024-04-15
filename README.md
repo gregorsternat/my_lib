@@ -16,5 +16,6 @@
 | [array_len](/lib/array_len.c)                 | nothing                              |
 | [push_to_list](/lib/push_to_list.c)           | malloc                               |
 | [add_to_list](lib/add_to_list.c)              | malloc                               |
-|                                               |                                      |
+| [my_put_str](lib/my_put_str.c)                | write / [my_strlen](lib/my_strlen.c) |
+| [print_file](lib/print_file.c)                | [file_to_str](lib/file_to_str.c) / [my_put_str](lib/my_put_str.c) |
 |                                               |                                      |
