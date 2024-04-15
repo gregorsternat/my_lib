@@ -36,4 +36,8 @@ void push_to_list(linked_list_t **begin, void *data);
 
 void add_to_list(linked_list_t **begin, void *data);
 
+int my_put_str(const char *str);
+
+int print_file(const char *path);
+
 #endif
