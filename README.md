@@ -29,10 +29,10 @@
 
 | Files                                         | Functions used                                                    |
 |-----------------------------------------------|-------------------------------------------------------------------|
-| [file_to_str](file_to_str.c)             | open / close / malloc                                             |
-| [my_strlen](my_strlen.c)                 | nothing                                                           |
-| [put_error](put_error.c)                 | write / [my_strlen](my_strlen.c)                             |
-| [my_strdup](my_strdup.c)                 | malloc / [my_strlen](my_strlen.c)                            |
-| [my_put_str](my_put_str.c)                | write / [my_strlen](my_strlen.c)                              |
-| [print_file](print_file.c)                | [file_to_str](file_to_str.c) / [my_put_str](my_put_str.c) |
+| [file_to_str](others/file_to_str.c)             | open / close / malloc                                             |
+| [my_strlen](others/my_strlen.c)                 | nothing                                                           |
+| [put_error](others/put_error.c)                 | write / [my_strlen](others/my_strlen.c)                             |
+| [my_strdup](others/my_strdup.c)                 | malloc / [my_strlen](others/my_strlen.c)                            |
+| [my_put_str](others/my_put_str.c)                | write / [my_strlen](others/my_strlen.c)                              |
+| [print_file](others/print_file.c)                | [file_to_str](others/file_to_str.c) / [my_put_str](others/my_put_str.c) |
 |                                               |                                                                   |
